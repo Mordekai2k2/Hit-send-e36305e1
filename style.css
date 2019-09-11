@@ -1,0 +1,20 @@
+Body {
+    background-color: Black;
+}
+h1 {
+    color: White;
+    font-size: 400%;
+}
+label {
+    font-size: 200%;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+input {
+    width: 400px;
+    height: 40px;
+    font-size: 200%;
+    text-align: center;
+    border-radius: 30px;
+}
